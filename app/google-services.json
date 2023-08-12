@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "837890541772",
+    "project_id": "bolt-85332",
+    "storage_bucket": "bolt-85332.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837890541772:android:5088b0178221c5123a5a69",
+        "android_client_info": {
+          "package_name": "com.tectibet.bolt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837890541772-a01esqss6avqdevjtbia3j0iqdove2hk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tectibet.bolt",
+            "certificate_hash": "3049a68a7c5d4d08b6ad33db98330ac4dabcd44d"
+          }
+        },
+        {
+          "client_id": "837890541772-skujkaqsr19rnbv220dhpb9lg9fcfk6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFJU6ff9pm-565EgcxvwGeYKNx-lzRdY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837890541772-skujkaqsr19rnbv220dhpb9lg9fcfk6m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
