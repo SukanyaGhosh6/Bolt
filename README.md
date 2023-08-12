@@ -28,10 +28,6 @@ Bolt is an E-Commerce Android app developed using Java, Android Studio, XML, and
 
 - **User Profiles**: Users can update their profiles, including contact information and shipping addresses.
 
-## Screenshots
-
-![Screenshot 1](screenshots/screenshot1.png) ![Screenshot 2](screenshots/screenshot2.png)
-
 ## Getting Started
 
 To run and test the Bolt app on your local machine, follow these steps:
