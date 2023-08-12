@@ -32,7 +32,7 @@ Bolt is an E-Commerce Android app developed using Java, Android Studio, XML, and
 
 To run and test the Bolt app on your local machine, follow these steps:
 
-1. **Clone the Repository**: Clone this repository to your local machine using `git clone https://github.com/your-username/bolt.git`.
+1. **Clone the Repository**: Clone this repository to your local machine using `git clone https://github.com/SukanyaGhosh6/bolt.git`.
 
 2. **Open in Android Studio**: Open Android Studio and select "Open an existing Android Studio project." Navigate to the cloned repository and select the project folder.
 
