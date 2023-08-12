@@ -1,4 +1,4 @@
-# Bolt
+
 # Bolt E-Commerce Android App
 
 ![Screenshot (148)](https://github.com/SukanyaGhosh6/Bolt/assets/78369568/413fbda1-ad95-4889-a9ed-3a67b448675e)
